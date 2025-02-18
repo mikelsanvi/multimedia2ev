@@ -6,7 +6,7 @@ plugins {
 
 android {
     namespace = "org.ies.examen"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "org.ies.examen"
