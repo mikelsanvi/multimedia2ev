@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "637086280758",
+    "project_id": "shop-2bf56",
+    "storage_bucket": "shop-2bf56.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637086280758:android:5f09d093510f75bb063c97",
+        "android_client_info": {
+          "package_name": "com.example.examen1ev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCccjBmTu1Lg6iEd5RZyrZAXk_NUlql6Pg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637086280758:android:9d439e882d59ec27063c97",
+        "android_client_info": {
+          "package_name": "com.example.myandroidapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCccjBmTu1Lg6iEd5RZyrZAXk_NUlql6Pg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637086280758:android:7d6f72f530c5fa8b063c97",
+        "android_client_info": {
+          "package_name": "com.example.myfirstapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCccjBmTu1Lg6iEd5RZyrZAXk_NUlql6Pg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637086280758:android:205004e0f06b45fb063c97",
+        "android_client_info": {
+          "package_name": "org.ies.examen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCccjBmTu1Lg6iEd5RZyrZAXk_NUlql6Pg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
