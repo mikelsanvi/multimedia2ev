@@ -40,6 +40,9 @@ fun StudentsScreen() {
                         text = "${student.name} ${student.surname}",
                         modifier = Modifier.padding(16.dp)
                     )
+                    Button(onClick = { /*TODO*/ }) {
+                        Text(text = "Editar")
+                    }
                 }
             }
         }
